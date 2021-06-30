@@ -1,5 +1,7 @@
-Hola Estoy tratando de hacer un texto 
+Titulo: 
+Tema: Historias diarias  pero en paralelo
+reseña: la idea es poder contar cosas y pensamientos x para 
+ir practicando git y  que de ahi salga laguna idea para la tesis :)
 
-pero no se que escribir 
-
-lol perdon jijij
+parte uno
+no todo  puede verce peor que vivir en un guion.
