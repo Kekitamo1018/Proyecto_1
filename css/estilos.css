@@ -29,13 +29,8 @@ body
   padding: 0;  
 }
 
-#container2 
-{
-    font-size: 20px; 
-}
 
-
-#container2 #post
+ #post
 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: black;
