@@ -1,5 +1,6 @@
 body
 {
+    background: blueviolet;
     color: crimson;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -8,6 +9,23 @@ body
     padding: 0;
 
 }
+
+
+#header
+{
+    background-color:dodgerblue 10px 10px;
+    box-shadow:0px 2px 20px 0px  black;
+    color: black;
+    font-weight: normal;
+    font-size: medium;
+}
+
+#container h1
+{
+    font-size: 20px; 
+}
+
+
 #post
 {
     color: black;
@@ -15,3 +33,4 @@ body
     font-style: oblique;
     font-size: 16px;
 }
+
