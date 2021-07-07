@@ -17,12 +17,16 @@ body
     box-shadow:0px 2px 20px 0px  black;
     color: black;
     font-weight: normal;
-    font-size: medium;
+    margin: 0;
+    padding: 0.5em 0 0.5em 2      em;
 }
+    
 
-#container h1
+
+#container
 {
-    font-size: 20px; 
+  width: 70%;
+  padding: 0;  
 }
 
 #container2 
@@ -33,6 +37,7 @@ body
 
 #container2 #post
 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: black;
     text-align: left;
     font-style: oblique;
