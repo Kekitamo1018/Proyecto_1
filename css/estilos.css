@@ -1,7 +1,7 @@
 body
 {
     background: rgb(209, 201, 216);
-    color: crimson;
+    color:black;
     text-align: center;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 24px;
@@ -25,7 +25,7 @@ body
     font-size: 20px; 
 }
 
-#container2 h1
+#container2 
 {
     font-size: 20px; 
 }
